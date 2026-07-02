@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Macchiato</title>
+    <meta
+      name="description"
+      content="Macchiato 的个人照片与视频网页，记录家人、生日、成长和生活片段。"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero" id="top">
+      <img class="hero__image" src="assets/photos/hero-three.jpg" alt="三人行合照" />
+      <div class="hero__shade"></div>
+      <nav class="nav" aria-label="页面导航">
+        <a href="#photos">照片</a>
+        <a href="#videos">视频</a>
+      </nav>
+      <div class="hero__content">
+        <p class="eyebrow">Family album</p>
+        <h1>Macchiato</h1>
+        <p class="hero__text">在笑脸、生日蜡烛和日常拥抱里长大的小小主角。</p>
+      </div>
+    </header>
+
+    <main>
+      <section class="intro" aria-label="精选说明">
+        <div>
+          <p class="section-kicker">Selected moments</p>
+          <h2>先看一张代表性的照片，再慢慢翻相册。</h2>
+        </div>
+        <p>
+          我从桌面 Macchiato 素材里筛掉了重复连拍和构图较弱的图，保留清晰、表情自然、主题不同的照片与短视频。
+        </p>
+      </section>
+
+      <section class="story-strip" aria-label="故事导览">
+        <article class="story-card">
+          <span>01</span>
+          <h3>三人行</h3>
+          <p>把最亲近的人放在第一眼，网页一打开就知道这是关于陪伴的相册。</p>
+        </article>
+        <article class="story-card">
+          <span>02</span>
+          <h3>生日与成长</h3>
+          <p>皇冠、蛋糕和蜡烛留下了明确的时间感，也让相册更像一段成长记录。</p>
+        </article>
+        <article class="story-card">
+          <span>03</span>
+          <h3>日常片段</h3>
+          <p>学习、吃饭、户外和短视频放在后面，让朋友慢慢看到生活里的细节。</p>
+        </article>
+      </section>
+
+      <section class="photos-section" id="photos">
+        <div class="section-heading">
+          <p class="section-kicker">Photos</p>
+          <h2>照片</h2>
+        </div>
+
+        <div class="filters" aria-label="照片分类">
+          <button class="filter is-active" type="button" data-filter="all">全部</button>
+          <button class="filter" type="button" data-filter="Macchiato">Macchiato</button>
+          <button class="filter" type="button" data-filter="family">家人</button>
+          <button class="filter" type="button" data-filter="birthday">生日</button>
+          <button class="filter" type="button" data-filter="daily">日常</button>
+        </div>
+
+        <div class="gallery" id="photoGallery" aria-live="polite"></div>
+      </section>
+
+      <section class="videos-section" id="videos">
+        <div class="section-heading">
+          <p class="section-kicker">Videos</p>
+          <h2>视频</h2>
+        </div>
+        <div class="video-grid" id="videoGrid"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <a href="#top">Macchiato</a>
+    </footer>
+
+    <dialog class="lightbox" id="lightbox">
+      <button class="lightbox__close" type="button" aria-label="关闭照片">&times;</button>
+      <img id="lightboxImage" alt="" />
+      <p id="lightboxCaption"></p>
+    </dialog>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,150 @@
+{
+  "photos": [
+    {
+      "slug": "hero",
+      "original": "IMG_2381.JPG",
+      "src": "assets/photos/hero.jpg",
+      "thumb": "assets/thumbs/hero.jpg"
+    },
+    {
+      "slug": "duoduo-park",
+      "original": "IMG_2361.JPG",
+      "src": "assets/photos/duoduo-park.jpg",
+      "thumb": "assets/thumbs/duoduo-park.jpg"
+    },
+    {
+      "slug": "duoduo-school",
+      "original": "IMG_7805.JPG",
+      "src": "assets/photos/duoduo-school.jpg",
+      "thumb": "assets/thumbs/duoduo-school.jpg"
+    },
+    {
+      "slug": "duoduo-smile",
+      "original": "IMG_2744.JPG",
+      "src": "assets/photos/duoduo-smile.jpg",
+      "thumb": "assets/thumbs/duoduo-smile.jpg"
+    },
+    {
+      "slug": "family-three",
+      "original": "IMG_1151.JPG",
+      "src": "assets/photos/family-three.jpg",
+      "thumb": "assets/thumbs/family-three.jpg"
+    },
+    {
+      "slug": "family-close",
+      "original": "IMG_1128.JPG",
+      "src": "assets/photos/family-close.jpg",
+      "thumb": "assets/thumbs/family-close.jpg"
+    },
+    {
+      "slug": "sibling-ride",
+      "original": "mmexport1482058950598.jpg",
+      "src": "assets/photos/sibling-ride.jpg",
+      "thumb": "assets/thumbs/sibling-ride.jpg"
+    },
+    {
+      "slug": "sibling-night",
+      "original": "IMG_3350.JPG",
+      "src": "assets/photos/sibling-night.jpg",
+      "thumb": "assets/thumbs/sibling-night.jpg"
+    },
+    {
+      "slug": "birthday-cake",
+      "original": "IMG_1434.JPG",
+      "src": "assets/photos/birthday-cake.jpg",
+      "thumb": "assets/thumbs/birthday-cake.jpg"
+    },
+    {
+      "slug": "birthday-crown",
+      "original": "IMG_1443.JPG",
+      "src": "assets/photos/birthday-crown.jpg",
+      "thumb": "assets/thumbs/birthday-crown.jpg"
+    },
+    {
+      "slug": "mom-son-smile",
+      "original": "IMG_4202.JPG",
+      "src": "assets/photos/mom-son-smile.jpg",
+      "thumb": "assets/thumbs/mom-son-smile.jpg"
+    },
+    {
+      "slug": "mom-son-bed",
+      "original": "IMG_1189.JPG",
+      "src": "assets/photos/mom-son-bed.jpg",
+      "thumb": "assets/thumbs/mom-son-bed.jpg"
+    },
+    {
+      "slug": "aunt-heart",
+      "original": "IMG_0360.JPG",
+      "src": "assets/photos/aunt-heart.jpg",
+      "thumb": "assets/thumbs/aunt-heart.jpg"
+    },
+    {
+      "slug": "aunt-hug",
+      "original": "IMG_1092.JPG",
+      "src": "assets/photos/aunt-hug.jpg",
+      "thumb": "assets/thumbs/aunt-hug.jpg"
+    },
+    {
+      "slug": "maodou-study",
+      "original": "CIDH9797.JPEG",
+      "src": "assets/photos/maodou-study.jpg",
+      "thumb": "assets/thumbs/maodou-study.jpg"
+    },
+    {
+      "slug": "maodou-food",
+      "original": "ATMO3346.JPEG",
+      "src": "assets/photos/maodou-food.jpg",
+      "thumb": "assets/thumbs/maodou-food.jpg"
+    },
+    {
+      "slug": "maodou-outdoor",
+      "original": "IMG_7950.JPG",
+      "src": "assets/photos/maodou-outdoor.jpg",
+      "thumb": "assets/thumbs/maodou-outdoor.jpg"
+    },
+    {
+      "slug": "mother-sea",
+      "original": "IMG_4817.JPG",
+      "src": "assets/photos/mother-sea.jpg",
+      "thumb": "assets/thumbs/mother-sea.jpg"
+    },
+    {
+      "slug": "mother-golf",
+      "original": "IMG_0560.JPG",
+      "src": "assets/photos/mother-golf.jpg",
+      "thumb": "assets/thumbs/mother-golf.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "slug": "moment-1",
+      "original": "1482058746630.mp4",
+      "src": "assets/videos/moment-1.mp4"
+    },
+    {
+      "slug": "moment-2",
+      "original": "CJPP2002.MP4",
+      "src": "assets/videos/moment-2.mp4"
+    },
+    {
+      "slug": "moment-3",
+      "original": "JEYH0355.MP4",
+      "src": "assets/videos/moment-3.mp4"
+    },
+    {
+      "slug": "moment-4",
+      "original": "SMZG9108.MP4",
+      "src": "assets/videos/moment-4.mp4"
+    },
+    {
+      "slug": "moment-5",
+      "original": "1482057539252.mp4",
+      "src": "assets/videos/moment-5.mp4"
+    },
+    {
+      "slug": "moment-6",
+      "original": "1482058785658.mp4",
+      "src": "assets/videos/moment-6.mp4"
+    }
+  ]
+}
