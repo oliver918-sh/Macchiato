@@ -5,6 +5,7 @@ const photos = [
   { src: "assets/photos/duoduo-smile.jpg", thumb: "assets/thumbs/duoduo-smile.jpg", title: "靠墙微笑", category: "Macchiato" },
   { src: "assets/photos/family-three.jpg", thumb: "assets/thumbs/family-three.jpg", title: "三人行的温柔瞬间", category: "family" },
   { src: "assets/photos/family-close.jpg", thumb: "assets/thumbs/family-close.jpg", title: "挤在一起的笑脸", category: "family" },
+  { src: "assets/photos/family-mountain.jpg", thumb: "assets/thumbs/family-mountain.jpg", title: "山上的三代合照", category: "family" },
   { src: "assets/photos/sibling-ride.jpg", thumb: "assets/thumbs/sibling-ride.jpg", title: "兄妹同框", category: "family" },
   { src: "assets/photos/sibling-night.jpg", thumb: "assets/thumbs/sibling-night.jpg", title: "夜晚一起玩", category: "family" },
   { src: "assets/photos/birthday-cake.jpg", thumb: "assets/thumbs/birthday-cake.jpg", title: "生日蛋糕与蜡烛", category: "birthday" },

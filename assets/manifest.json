@@ -37,6 +37,12 @@
       "thumb": "assets/thumbs/family-close.jpg"
     },
     {
+      "slug": "family-mountain",
+      "original": "微信图片_20260701164550_1341_12.jpg",
+      "src": "assets/photos/family-mountain.jpg",
+      "thumb": "assets/thumbs/family-mountain.jpg"
+    },
+    {
       "slug": "sibling-ride",
       "original": "mmexport1482058950598.jpg",
       "src": "assets/photos/sibling-ride.jpg",
