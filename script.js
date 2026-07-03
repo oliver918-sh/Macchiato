@@ -28,6 +28,8 @@ const videos = [
   { src: "assets/videos/moment-4.mp4", title: "家庭视频 4" },
   { src: "assets/videos/moment-5.mp4", title: "生活片段 5" },
   { src: "assets/videos/moment-6.mp4", title: "开心片段 6" },
+  { src: "assets/videos/moment-7.mp4", title: "欢乐片段 7" },
+  { src: "assets/videos/moment-8.mp4", title: "温馨片段 8" },
 ];
 
 const gallery = document.querySelector("#photoGallery");
