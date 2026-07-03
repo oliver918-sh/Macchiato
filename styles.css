@@ -252,8 +252,9 @@ a {
 
 .photo-card img {
   width: 100%;
-  aspect-ratio: 4 / 5;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
+  background: #f2eee8;
   transition: transform 220ms ease;
 }
 
@@ -389,6 +390,6 @@ a {
   }
 
   .photo-card img {
-    aspect-ratio: 5 / 4;
+    height: auto;
   }
 }

@@ -27,7 +27,7 @@ const videos = [
   { src: "assets/videos/moment-3.mp4", title: "短短一幕 3" },
   { src: "assets/videos/moment-4.mp4", title: "家庭视频 4" },
   { src: "assets/videos/moment-5.mp4", title: "生活片段 5" },
-  { src: "assets/videos/moment-6.mp4", title: "生活片段 6" },
+  { src: "assets/videos/moment-6.mp4", title: "开心片段 6" },
 ];
 
 const gallery = document.querySelector("#photoGallery");
