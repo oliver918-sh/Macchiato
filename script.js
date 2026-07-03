@@ -21,6 +21,8 @@ const photos = [
   { src: "assets/photos/mother-golf.jpg", thumb: "assets/thumbs/mother-golf.jpg", title: "明亮的户外自拍", category: "daily" },
 ];
 
+const assetVersion = "20260703-2";
+
 const videos = [
   { src: "assets/videos/moment-1.mp4", title: "生活片段 1" },
   { src: "assets/videos/moment-2.mp4", title: "快乐时刻 2" },
@@ -58,7 +60,7 @@ function renderVideos() {
     const item = document.createElement("article");
     item.className = "video-card";
     item.innerHTML = `
-      <video src="${video.src}" controls preload="metadata" playsinline></video>
+      <video src="${video.src}?v=${assetVersion}" controls preload="metadata" playsinline></video>
       <p>${video.title}</p>
     `;
     videoGrid.append(item);
